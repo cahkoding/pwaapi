@@ -1,0 +1,24 @@
+{
+"products" : [
+  {"id":1,"name":"Domainer","category":"Green"},
+  {"id":2,"name":"Namfix","category":"Mauv"},
+  {"id":3,"name":"Tres-Zap","category":"Indigo"},
+  {"id":4,"name":"Span","category":"Crimson"},
+  {"id":5,"name":"Lotstring","category":"Mauv"},
+  {"id":6,"name":"Bigtax","category":"Mauv"},
+  {"id":7,"name":"Tres-Zap","category":"Red"},
+  {"id":8,"name":"Bigtax","category":"Fuscia"},
+  {"id":9,"name":"Pannier","category":"Pink"},
+  {"id":10,"name":"Zaam-Dox","category":"Pink"},
+  {"id":11,"name":"Duobam","category":"Red"},
+  {"id":12,"name":"Bitchip","category":"Fuscia"},
+  {"id":13,"name":"Bigtax","category":"Aquamarine"},
+  {"id":14,"name":"Lotlux","category":"Mauv"},
+  {"id":15,"name":"Transcof","category":"Blue"},
+  {"id":16,"name":"Y-find","category":"Fuscia"},
+  {"id":17,"name":"Flowdesk","category":"Crimson"},
+  {"id":18,"name":"Lotlux","category":"Maroon"},
+  {"id":19,"name":"Hatity","category":"Red"},
+  {"id":20,"name":"Ronstring","category":"Pink"}
+ ]
+}
